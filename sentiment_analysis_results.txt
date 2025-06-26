@@ -1,6 +1,33 @@
 Review: This phone’s battery lasts all day, and the screen is stunning.
-Analysis: Positive: The phone’s battery lasts all day and the screen is stunning
+Analysis: Positive. The review highlights positive aspects of the product, such as the battery life and screen quality
+
+Review: It does what it’s supposed to, nothing more, nothing less.
+Analysis: Neutral. The review states the product "does what it’s supposed to, nothing more, nothing less," indicating a neutral stance. The review meets expectations without any positive enthusiasm
+
+Review: I regret buying this vacuum, it barely picks up anything.
+Analysis: Negative. The customer expressed dissatisfaction with the vacuum's performance, specifically stating that it "barely picks up anything."
+
+Review: The packaging was damaged when it arrived, but the product works fine.
+Analysis: Positive. The packaging was damaged, but the product works fine
+
+Review: Customer service was really rude and unhelpful.
+Analysis: Negative
+
+Review: This camera takes great photos, but the build quality feels cheap.
+Analysis: Mixed: The camera takes great photos, but the build quality feels cheap
+
+Review: Can’t believe I wasted money on this piece of junk.
+Analysis: Negative. The review expresses dissatisfaction with the product itself
+
+Review: Looks okay so far, haven’t used it enough to say more.
+Analysis: Neutral. The review reflects a neutral sentiment towards the product, as it is being used and the user has not used it enough to say more
+
+Review: Netflix on this tablet is a dream, bright display and loud sound.
+Analysis: Positive: Netflix on this tablet is a dream, bright display and loud sound
 
 Review: 
-Analysis: Positive. The review focuses on the product itself, describing its features and how it meets the user's needs
+Analysis: Positive: The product exceeded my expectations. It is well-designed and performs exceptionally well
+
+Review: 
+Analysis: Positive. The review focuses on the product itself and highlights its features and performance
 
