@@ -1,10 +1,10 @@
-# Maestro - AI-Powered Sentiment Analysis
+# AI-Powered Sentiment Analysis
 
 A Python application that leverages AI21's Maestro API to perform intelligent sentiment analysis on product reviews.
 
 ## Overview
 
-Maestro is a tool designed to analyze product reviews and classify their sentiment as Positive, Neutral, Negative, Mixed, or Irrelevant. The application focuses specifically on product-related sentiment, filtering out comments about shipping, customer service, or other non-product aspects.
+a tool designed to analyze product reviews and classify their sentiment as Positive, Neutral, Negative, Mixed, or Irrelevant. The application focuses specifically on product-related sentiment, filtering out comments about shipping, customer service, or other non-product aspects.
 
 ## Features
 
